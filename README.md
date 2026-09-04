@@ -29,6 +29,8 @@ Data Flow
      ▼
 Transformed Data
 
+```
+
 ![img alt](https://github.com/ifraharshad395-glitch/Azure_Data_Factory_Project/blob/e0b04118a1667c3e67e62606c55164dcd79c895c/resourcegroup_and_resources.png)
 
 ![img alt](https://github.com/ifraharshad395-glitch/Azure_Data_Factory_Project/blob/e0b04118a1667c3e67e62606c55164dcd79c895c/pipeline.png)
